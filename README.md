@@ -1,0 +1,1 @@
+This program takes a five letter word from user input and compares it to a randomly selected five letter word to see if they match. If a letter is green, the letter is correct and in the correct spot. If a letter is yellow, the letter is correct but in the wrong spot in the word.
